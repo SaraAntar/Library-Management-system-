@@ -1,0 +1,4 @@
+Id,Book Name,Author Name,Available quantity,Issued Quantity
+4000,Oliver Twist,Charles Dickens,98,7
+4001,Great Expectations,Charles Dickens,2,5
+4002,Rahma 2,Maysoon Sorour,23,5

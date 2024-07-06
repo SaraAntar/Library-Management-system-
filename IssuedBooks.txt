@@ -1,0 +1,5 @@
+Procedure ID,Book ID,Student ID,Returned
+1,4000,3000,False
+2,4001,3001,False
+3,4001,3002,True
+4,4004,3000,False

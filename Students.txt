@@ -1,0 +1,6 @@
+ID,Name,Birthday,Email,Mobile Number
+3000,Shahd,1/1/2001,s.abdullah@nu.edu.eg,01000000012
+3001,Merna,2/2/2002,m.salem@nu.edu.eg,01000000013
+3002,Yousef,3/4/2002,y.yahia@nu.edu.eg,01000000014
+3003,Sara,5/5/2002,s.anter@nu.edu.eg,01888888856
+3004,Khaled,1/3/2007,k.sameh@nu.edu.eg,01456234512
